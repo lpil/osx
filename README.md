@@ -1,1 +1,1 @@
-Drop in `~/Library/Keyboard\ Layouts/`
+Drop `.keylayout` files in `~/Library/Keyboard\ Layouts/`
